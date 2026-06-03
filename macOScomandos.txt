@@ -1,0 +1,2 @@
+cd ~/Desktop/chatbot-ia
+ng serve
